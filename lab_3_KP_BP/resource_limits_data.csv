@@ -1,0 +1,4 @@
+resource_id,resource_name,limit_R_i
+1,Arable Land (acres),300
+2,Operating Capital (_),60000
+3,Water Allocation (acre-feet),800

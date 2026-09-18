@@ -1,0 +1,6 @@
+crop_id,crop_name,profit_p_j,fixed_fee_F_j,min_bound_K_j,max_bound_L_j,req_land,req_capital,req_water
+1,Rice,350,2000,15,150,1,200,5
+2,Sweet corn,280,1500,10,120,1,140,2.5
+3,Coconut,420,3500,8,70,1,250,1.5
+4,Sugarcane,510,5000,20,100,1,450,4.5
+5,Saba banana,480,4000,12,90,1,320,3
