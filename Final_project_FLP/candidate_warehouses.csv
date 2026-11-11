@@ -1,53 +1,16 @@
 id,service_name,barangay,district,y,x,fixed_cost_php,capacity_kg,latitude,longitude
 0,Sta. Ana Port Logistics Hub,Leon Garcia,Poblacion,7.0782,125.6235,65000,1800,7.0782,125.6235
-1,Monteverde Commercial Depot,Tomas Monteverde,Poblacion,7.0754,125.6188,60000,1500,7.0754,125.6188
-2,Uyanguren Wholesale Commissary,Barangay 27-C,Poblacion,7.0768,125.6199,62000,1600,7.0768,125.6199
-3,Quirino Central Cold Storage,Barangay 3-A,Poblacion,7.0691,125.6052,58000,1400,7.0691,125.6052
-4,Claveria Roastery & Supply Center,Barangay 32-D,Poblacion,7.0722,125.6124,61000,1500,7.0722,125.6124
-5,Obrero Micro-Fulfillment Center,Barangay 18-B,Poblacion,7.0858,125.6145,59000,1500,7.0858,125.6145
-6,Obrero North Dispatch Hub,Barangay 19-B,Poblacion,7.0912,125.6118,57000,1400,7.0912,125.6118
-7,Bankerohan Agro-Supply Depot,Barangay 5-A,Poblacion,7.0678,125.6001,55000,1600,7.0678,125.6001
-8,Boulevard Coastal Warehouse,Barangay 23-C,Poblacion,7.0685,125.6192,52000,1300,7.0685,125.6192
-9,Rizal Park Commercial Storage,Barangay 34-D,Poblacion,7.0652,125.6095,58000,1350,7.0652,125.6095
-10,Bajada Victoria Logistics Park,Barangay 20-B,Poblacion,7.0955,125.6132,64000,1750,7.0955,125.6132
-11,Cabaguio Industrial Complex,Paciano Bangoy,Agdao,7.0928,125.6221,56000,1650,7.0928,125.6221
-12,Agdao Public Market Supply Hub,Agdao Proper,Agdao,7.0841,125.6248,54000,1550,7.0841,125.6248
-13,R. Castillo Portside Warehouse,Wilfredo Aquino,Agdao,7.0984,125.6312,58000,1800,7.0984,125.6312
-14,Damosa IT & Logistics Center,Angliongto,Buhangin,7.1042,125.6285,68000,2000,7.1042,125.6285
-15,Lanang Business Park Commissary,Vicente Hizon Sr.,Buhangin,7.1105,125.6392,66000,1900,7.1105,125.6392
-16,Pampanga Cargo & Cold Chain,Pampanga,Buhangin,7.1168,125.6475,63000,1850,7.1168,125.6475
-17,Sasa Wharf Freight Terminal,Sasa,Buhangin,7.1274,125.6562,70000,2400,7.1274,125.6562
-18,Panacan Industrial Zone A,Panacan,Bunawan,7.152,125.6558,65000,2200,7.152,125.6558
-19,Tibungco North Supply Hub,Tibungco,Bunawan,7.1895,125.6521,50000,1800,7.1895,125.6521
-20,Bunawan Highway Logistics,Bunawan Proper,Bunawan,7.2345,125.6465,45000,1700,7.2345,125.6465
-21,Buhangin Gym Commercial Hub,Buhangin Proper,Buhangin,7.1132,125.6125,55000,1600,7.1132,125.6125
-22,Milan Diversion Logistics,Buhangin Proper,Buhangin,7.1205,125.6184,59000,1750,7.1205,125.6184
-23,Cabantian Commercial Depot,Cabantian,Buhangin,7.1415,125.6152,48000,1500,7.1415,125.6152
-24,Communal Airport Cargo Hub,Communal,Buhangin,7.1352,125.6341,62000,1900,7.1352,125.6341
-25,Indangan North Micro-Hub,Indangan,Buhangin,7.1585,125.6082,44000,1300,7.1585,125.6082
-26,Mandug Agro-Distribution Center,Mandug,Buhangin,7.1542,125.5824,42000,1400,7.1542,125.5824
-27,Maa Diversion Freight Center,Ma-a,Talomo,7.0875,125.5912,60000,1850,7.0875,125.5912
-28,Maa-Magtuod Junction Warehouse,Ma-a,Talomo,7.0762,125.5815,53000,1600,7.0762,125.5815
-29,Langub Hilltop Logistics,Langub,Talomo,7.0892,125.5684,46000,1400,7.0892,125.5684
-30,Bucana Coastal Supply Depot,Bucana,Talomo,7.0545,125.6082,57000,1550,7.0545,125.6082
-31,Ecoland Terminal Dispatch Hub,Bucana,Talomo,7.0528,125.5992,63000,1900,7.0528,125.5992
-32,Matina Town Square Micro-Hub,Matina Crossing,Talomo,7.0615,125.5934,59000,1650,7.0615,125.5934
-33,Matina Aplaya Storage Facility,Matina Aplaya,Talomo,7.0435,125.5882,52000,1500,7.0435,125.5882
-34,Matina Pangi Diversion Depot,Matina Pangi,Talomo,7.0715,125.5672,51000,1600,7.0715,125.5672
-35,Bangkal McArthur Logistics,Talomo Proper,Talomo,7.0568,125.5695,56000,1750,7.0568,125.5695
-36,Ulas Junction Distribution Hub,Talomo Proper,Talomo,7.0485,125.5482,58000,1850,7.0485,125.5482
-37,Catalunan Grande Supply Center,Catalunan Grande,Talomo,7.0812,125.5395,49000,1500,7.0812,125.5395
-38,Catalunan Pequeno Commissary,Catalunan Pequeno,Talomo,7.0642,125.5245,47000,1450,7.0642,125.5245
-39,Baliok Coastal Logistics,Baliok,Talomo,7.0345,125.5122,46000,1400,7.0345,125.5122
-40,Dumoy Cold Chain & Dairy Hub,Dumoy,Talomo,7.0265,125.5185,54000,1800,7.0265,125.5185
-41,Bago Aplaya South Depot,Bago Aplaya,Talomo,7.0382,125.5324,51000,1600,7.0382,125.5324
-42,Puan Highway Fulfillment Center,Talomo Proper,Talomo,7.0425,125.5418,53000,1650,7.0425,125.5418
-43,Toril Poblacion Logistics Center,Toril Proper,Toril,7.0185,125.4982,55000,1900,7.0185,125.4982
-44,Lizada Industrial Park Hub,Lizada,Toril,7.0055,125.4895,50000,1800,7.0055,125.4895
-45,Mulig South-West Roastery,Mulig,Toril,7.0312,125.4785,44000,1500,7.0312,125.4785
-46,Mintal Commercial Supply Hub,Mintal,Tugbok,7.0895,125.5042,50000,1650,7.0895,125.5042
-47,Tugbok District Warehouse,Tugbok Proper,Tugbok,7.0982,125.5185,47000,1550,7.0982,125.5185
-48,Bago Oshiro Agro-Processing Hub,Bago Oshiro,Tugbok,7.0715,125.4985,46000,1500,7.0715,125.4985
-49,Los Amigos Highway Depot,Los Amigos,Tugbok,7.1245,125.4752,43000,1400,7.1245,125.4752
-50,Calinan Highland Coffee Hub,Calinan Proper,Calinan,7.1885,125.4525,48000,1800,7.1885,125.4525
-51,Buda Mountain Supply Outpost,Marilog Proper,Marilog,7.305,125.285,38000,1200,7.305,125.285
+1,Claveria Roastery & Supply Center,Barangay 32-D,Poblacion,7.0722,125.6124,61000,1500,7.0722,125.6124
+2,Obrero Micro-Fulfillment Center,Barangay 18-B,Poblacion,7.0858,125.6145,59000,1500,7.0858,125.6145
+3,Bajada Victoria Logistics Park,Barangay 20-B,Poblacion,7.0955,125.6132,64000,1750,7.0955,125.6132
+4,Agdao Public Market Supply Hub,Agdao Proper,Agdao,7.0841,125.6248,54000,1550,7.0841,125.6248
+5,Damosa IT & Logistics Center,Angliongto,Buhangin,7.1042,125.6285,68000,2000,7.1042,125.6285
+6,Sasa Wharf Freight Terminal,Sasa,Buhangin,7.1274,125.6562,70000,2400,7.1274,125.6562
+7,Panacan Industrial Zone A,Panacan,Bunawan,7.152,125.6558,65000,2200,7.152,125.6558
+8,Buhangin Gym Commercial Hub,Buhangin Proper,Buhangin,7.1132,125.6125,55000,1600,7.1132,125.6125
+9,Maa Diversion Freight Center,Ma-a,Talomo,7.0875,125.5912,60000,1850,7.0875,125.5912
+10,Ecoland Terminal Dispatch Hub,Bucana,Talomo,7.0528,125.5992,63000,1900,7.0528,125.5992
+11,Matina Town Square Micro-Hub,Matina Crossing,Talomo,7.0615,125.5934,59000,1650,7.0615,125.5934
+12,Bangkal McArthur Logistics,Talomo Proper,Talomo,7.0568,125.5695,56000,1750,7.0568,125.5695
+13,Toril Poblacion Logistics Center,Toril Proper,Toril,7.0185,125.4982,55000,1900,7.0185,125.4982
+14,Mintal Commercial Supply Hub,Mintal,Tugbok,7.0895,125.5042,50000,1650,7.0895,125.5042
